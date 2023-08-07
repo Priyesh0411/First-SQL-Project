@@ -16,7 +16,9 @@ SQL Data Analysis project to help Chinook Digital Music Store to help out of the
 10. Which Artist Is Singing Rock Music?
 11. Find the best-selling artist and then identify the customer who spent the most on that best-selling artist's tracks?
 12. (Advanced Query) Find out the most popular music Genre for each country.
+
 13.Return all the track names that have a song length longer than the average song length.
+
 14.Write a query that determines the customer that has spent the most on music for each country?
 
 # Database and Tools
